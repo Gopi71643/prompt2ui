@@ -1,1 +1,6 @@
-
+I love RKD
+#include <stdio.h>
+int main()
+{  printf("%d RKD",143);
+   return 0;
+}
